@@ -1,0 +1,30 @@
+#loginButton {
+  height: 100px;
+  width: 200px;
+  background: limegreen;
+  border-radius: 30px;
+}
+.App {
+  height: 500px;
+  width: 100%;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.formLabel {
+  color: limeGreen;
+}
+form {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+#loginContainer {
+  border: 1px solid white;
+  background: white;
+  border-radius: 4px;
+  width: 200px;
+  padding: 10px;
+}
